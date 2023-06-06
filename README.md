@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MeghanaChowdary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate tech learner </h3>
 
 - 🌱 I’m currently learning **devops**
 
